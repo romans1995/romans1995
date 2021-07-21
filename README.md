@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @romans1995
+- 👀 I’m interested in Full stack offers
+- 🌱 I’m currently learning React 
+- 📫 How to reach me cboby26@gmail.com
