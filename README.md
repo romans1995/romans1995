@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @romans1995
 - 👀 I’m interested in Full stack offers
 - 🌱 I’m currently learning Redux 
-- 📫 How to reach me cboby26@gmail.com
+- 📫 How to reach me stavinskyroman@gmail.com
