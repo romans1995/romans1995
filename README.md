@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Roman
-- 👀 I’m interested in Full stack offers
-- 🌱 I’m currently learning Redux 
+- 👀 I’m interested in Full-stack offers
+- 🌱 I’m currently learning Vue 
 - 📫 How to reach me stavinskyroman@gmail.com
